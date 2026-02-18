@@ -24,3 +24,9 @@ app_config.R
 ^\.RData$
 ^.*\.BiocCheck$
 ^inst/golem-config.yml$
+^data-raw$
+^codecov\.yml$
+^tests/README.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

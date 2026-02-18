@@ -16,3 +16,5 @@ dev/
 .DS_Store
 .quarto
 *\.BiocCheck
+tests/README.md
+docs

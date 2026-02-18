@@ -11,7 +11,8 @@ Description: Provides a suite of diagnostic tools for multivariate
     importance mapping to facilitate the interpretation of latent
     structures and the assessment of predictive model performance.
 License: GPL-3
-URL: https://github.com/ecamenen/GimmeMyAI
+URL: https://github.com/ecamenen/GimmeMyAI,
+    https://ecamenen.github.io/GimmeMyAI/
 BugReports: https://github.com/ecamenen/GimmeMyAI/issues
 Suggests: 
     testthat (>= 3.0.0)

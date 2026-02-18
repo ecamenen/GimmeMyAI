@@ -12,6 +12,7 @@ Provides a suite of diagnostic tools for multivariate analysis and machine learn
 Useful links:
 \itemize{
   \item \url{https://github.com/ecamenen/GimmeMyAI}
+  \item \url{https://ecamenen.github.io/GimmeMyAI/}
   \item Report bugs at \url{https://github.com/ecamenen/GimmeMyAI/issues}
 }
 
