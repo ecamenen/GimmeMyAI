@@ -22,3 +22,5 @@ app_config.R
 ^inst/extdata$
 ^app_config\.R$
 ^\.RData$
+^.*\.BiocCheck$
+^inst/golem-config.yml$

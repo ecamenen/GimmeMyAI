@@ -1,0 +1,64 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# GimmeMyAI
+
+Diagnostics Utilities for Multivariate Models
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/GimmeMyAI)](https://CRAN.R-project.org/package=GimmeMyAI)
+[![R-CMD-check](https://github.com/ecamenen/GimmeMyAI/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ecamenen/GimmeMyAI/actions/workflows/R-CMD-check.yaml)
+
+## Overview
+
+Provides a suite of diagnostic tools for multivariate analysis and
+machine learning. This package implements visualization techniques for
+dimension reduction methods through correlation circles, score plots,
+and biplots. It also includes variable importance mapping to facilitate
+the interpretation of latent structures and the assessment of predictive
+model performance.
+
+## Installation
+
+``` r
+install.packages("GimmeMyAI")
+```
+
+You can install the development version from
+[GitHub](https://github.com/ecamenen/GimmeMyAI) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("ecamenen/GimmeMyAI")
+```
+
+### Prerequisites
+
+- Softwares : R (≥ 4.0.0)
+
+- R libraries : see the
+  [DESCRIPTION](https://github.com/ecamenen/GimmeMyAI/blob/main/DESCRIPTION)
+  file.
+
+## Development
+
+For any suggestions, open an
+[issue](https://github.com/ecamenen/GimmeMyAI/issues/new) describing the
+required feature.
+
+### Support the community
+
+If you want to share any personal customization of this set of functions
+to the community:
+
+- Use a [fork](https://github.com/ecamenen/GimmeMyAI/fork)
+- Submit a [pull request](https://github.com/ecamenen/GimmeMyAI/compare)
+  for the `develop` branch and describing the developed feature (if
+  necessary, including the link to a pre-existing issue)
+
+### More information about:
+
+- [Fork](https://docs.github.com/fr/get-started/quickstart/fork-a-repo)
+- [Issue](https://docs.github.com/fr/issues/tracking-your-work-with-issues/creating-an-issue)
+- [Pull
+  request](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
